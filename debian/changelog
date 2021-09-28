@@ -1,3 +1,9 @@
+golang-github-danos-yang (2.12.1) unstable; urgency=medium
+
+  * Fix over zealous leafref optimisation
+
+ -- William Ivory <william.ivory@intl.att.com>  Tue, 28 Sep 2021 16:57:45 +0100
+
 golang-github-danos-yang (2.12) unstable; urgency=medium
 
   [ William Ivory ]
